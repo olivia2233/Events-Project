@@ -1,0 +1,64 @@
+.footer{
+    width: 100%;
+    background-color: dodgerblue;
+    padding: 15px;
+}
+.nav-item:hover{
+    background-color: lawngreen;
+}
+body{
+    background-color: lavenderblush;
+}
+p{
+    color: dimgray;
+    font-family: cursive;
+}
+.row {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.col-sm-6 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.col-sm-4{
+    text-align: center;
+    color: #343a40;
+}
+hr {
+    border: 1px solid lawngreen;
+}
+.copyright {
+    margin: 1px;
+}
+.carousel-inner {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+form {
+    background: deeppink;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+input, textarea, button {
+    margin: 8px 0px;
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact {
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+
+
